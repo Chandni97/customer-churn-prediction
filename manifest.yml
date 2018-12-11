@@ -1,7 +1,7 @@
 declared-services:
   custom-churn-data-science-experience:
     label: pm-20
-    plan: lite
+    plan: standard
 applications:
 - services:
    - custom-churn-data-science-experience
